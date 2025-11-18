@@ -1,5 +1,5 @@
 export const getAllNotes = (req, res) => {
-  res.status(200).send("Source created successfully");
+  res.status(200).send("Default format  created successfully");
 };
 
 export const createNotes = (req, res) => {
